@@ -4,11 +4,8 @@ I will be creating at least one JavaScript project daily to improve my understan
 
 ## Completed Project List
 
-- [Project 1: Project Name](link-to-project-1) - Brief description of the project.
+- [Project 1: Android Style Model](link-to-project-1) - To open the model click on `open model` button and to close the model click on the overlay model text is also scrollable and responsive .
 
 ## Other Resources
 
 - [otherResources.txt](link-to-resources-file) - List of resources used for the projects.
-
-
-
