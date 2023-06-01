@@ -45,6 +45,24 @@
       </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-   
+    <script>
+      const swiper = new Swiper(".swiper", {
+        // infinity loop
+        loop: true,
+        //  auto play in ms
+        autoplay: {
+          delay: 1000,
+        },
+        pagination: {
+          el: ".swiper-pagination",
+        },
+        // how many slides to show in one time
+        slidesPerView: 3,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+    </script>
   </body>
 </html>
