@@ -1,5 +1,7 @@
 # Making Interesting JavaScript Projects Daily
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 I will be creating at least one JavaScript project daily to improve my understanding of JavaScript. All the resources I use will be available in the individual project files in the `resources.txt` file.
 
 ## Completed Project List
